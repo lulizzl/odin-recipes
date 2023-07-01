@@ -1,0 +1,38 @@
+body {
+    background-image: url(recipes-background.webp);
+    font-family: "Chambord", serif;
+    text-transform: uppercase;
+}
+
+.header {
+    margin: 85px -15px 30px -15px;
+    text-align: center;
+    background: #faf9f6;
+    padding: 8px;
+}
+
+h1 {
+    font-size: 38px;
+    font-weight: bold;
+    margin: 5px auto 0px auto
+}
+
+
+.recipes {
+    background: #faf9f6;
+    margin: 0px 10px;
+    padding: 10px 40px;
+}
+
+.recipes p {
+    text-align: center
+}
+
+img {
+    height: 60px;
+    width: 60px;
+    vertical-align: middle;
+    padding: 5px
+}
+
+
